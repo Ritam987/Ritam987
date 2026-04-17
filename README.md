@@ -7,12 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=ritam987&label=Profile%20Stalkers&color=00d1ff&style=for-the-badge" alt="ritam987" /> 
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Welcome%20to%20my%20Universe&fontSize=30&animation=fadeIn" />
-</p>
-
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
 ### ⚡ Quick Byte (About Me)
 - **Currently Cooking:** 🌱 Mastering the **Full Stack Chaos** (MERN is the vibe).
 - **The Lab:** 💻 Building **ToonWorld** (where cartoons live) and **Life Care Nursing Home** (saving lives with code).
