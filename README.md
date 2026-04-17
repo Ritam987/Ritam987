@@ -1,56 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ritam Chatterjee</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ritam987&label=Profile%20views&color=0e75b6&style=flat" alt="ritam987" /> 
-</p>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 📫 How to reach me **ritamchatterjee987@gmail.com**
-
----
-
-### Connect with me:
-<table>
-  <tr>
-    <td><a href="https://twitter.com/ritamchatterjee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/ritamchatterjee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
-    <td><a href="https://fb.com/ritamchatterjee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
-    <td><a href="https://instagram.com/ritamchatterjee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
-    <td><a href="https://auth.geeksforgeeks.org/user/ritamchatterjee"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a></td>
-    <td><a href="https://www.topcoder.com/members/713206"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a></td>
-  </tr>
-</table>
-
----
-
-### Languages and Tools:
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
-  </tr>
-</table>
-
----
-
+<h1 align="center">Hello! Ritam this side 😁</h1>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritam987&show_icons=true&locale=en&layout=compact" alt="ritam987" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritam987&show_icons=true&locale=en" alt="ritam987" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Full+Stack+Wizard+in+Training;%F0%9F%92%BB+Turning+Coffee+into+Code;%F0%9F%9A%80+Next-Gen+Web+Architect;%E2%9A%99%EF%B8%8F+BCA+Grind+@+MAKAUT" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritam987&" alt="ritam987" />
+<img src="https://komarev.com/ghpvc/?username=ritam987&label=Profile%20Stalkers&color=00d1ff&style=for-the-badge" alt="ritam987" /> 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header&text=Welcome%20to%20my%20Universe&fontSize=30&animation=fadeIn" />
+</p>
+
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+### ⚡ Quick Byte (About Me)
+- **Currently Cooking:** 🌱 Mastering the **Full Stack Chaos** (MERN is the vibe).
+- **The Lab:** 💻 Building **ToonWorld** (where cartoons live) and **Life Care Nursing Home** (saving lives with code).
+- **Current Objective:** 🎯 Hunting for that "Big League" Internship (July 2026, I'm coming for you!).
+- **Cheat Codes:** 🎮 When I'm not coding, I'm crushing it in **FC Mobile** (A Nation's Story is the current grind).
+- **Signal:** 📫 Drop a ping at [ritamchatterjee987@gmail.com](mailto:ritamchatterjee987@gmail.com) — *Response time: faster than a 1ms ping.*
+
+---
+
+### 🛰️ Digital Footprints (Socials)
+<p align="left">
+<a href="https://x.com/RitamChatt14576" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ritam-chatterjee-971682335" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.facebook.com/ritam.chatterjee.9634" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
+<a href="https://www.instagram.com/rtm_chtrje/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/ritamchatt2pl0" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 The Toolkit (3D Styled)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,bootstrap,tailwind,py,c,figma,git,postman,vscode,idx&perline=9" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake (Full Animation)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritam987&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br/>
+</p>
+
+---
+
+### 📊 The Stats Dashboard (Neon Glow)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritam987&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritam987&show_icons=true&locale=en&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritam987&theme=radical" alt="ritam987" />
+</p>
+
+---
+
+### 📈 Activity Graph (3D Gradient)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritam987&bg_color=1a1b27&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
