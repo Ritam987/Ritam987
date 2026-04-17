@@ -12,7 +12,7 @@
 - **The Lab:** 💻 Building **ToonWorld** (where cartoons live) and **Life Care Nursing Home** (saving lives with code).
 - **Current Objective:** 🎯 Hunting for that "Big League" Internship (July 2026, I'm coming for you!).
 - **Cheat Codes:** 🎮 When I'm not coding, I'm crushing it in **FC Mobile** (A Nation's Story is the current grind).
-- **Signal:** 📫 Drop a ping at [ritamchatterjee987@gmail.com](mailto:ritamchatterjee987@gmail.com) — *Response time: faster than a 1ms ping.*
+- **Signal:** 📫 Drop a ping at [ritamchatterjee987@gmail.com](mailto:ritamchatterjee987@gmail.com)
 
 ---
 
@@ -27,14 +27,14 @@
 
 ---
 
-### 🧰 The Toolkit (3D Styled)
+### 🧰 The Toolkit 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,bootstrap,tailwind,py,c,figma,git,postman,vscode,idx&perline=9" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake (Full Animation)
+### GitHub Contribution
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritam987&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 The Stats Dashboard (Neon Glow)
+### 📊 The Stats Dashboard 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritam987&show_icons=true&locale=en&layout=compact&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritam987&show_icons=true&locale=en&theme=radical" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📈 Activity Graph (3D Gradient)
+### 📈 Activity Graph 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritam987&bg_color=1a1b27&color=00D1FF&line=00D1FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
